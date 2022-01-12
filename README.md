@@ -21,9 +21,12 @@ y la última capa fully connected con función de activación softmax para obten
 Con esta estructura se consigue una precisión de validación del 86.3%
 
 Gráfica de evolución:
+
 ![image](https://user-images.githubusercontent.com/17860464/149221647-da5a033f-aba1-45a3-ba6e-fe2b0a09f6ef.png)
 
+
 Matriz de confusión:
+
 ![image](https://user-images.githubusercontent.com/17860464/149222039-780ee0ce-a970-4105-97a9-5d6eff890072.png)
 
 
