@@ -1,13 +1,12 @@
 # IA-Clasificatoria
 
-#----------------------------------------------------------------#
+Proyecto de redes neuronales, realizado por Jorge Armas Morales y Marcos Ismael Medina Castellano
+para la asignatura de Fundamentos de los Sistemas Inteligentes.
 
-Proyecto de redes neuronales.
-Realizado por Jorge Armas Morales y Marcos Ismael Medina Castellano
-Proyecto realizado para la asignatura de Fundamentos de los Sistemas Inteligentes
+
 Grado en Ingeniería Informática
 
-#----------PLANTEAMIENTO-------------#
+## PLANTEAMIENTO
 
 La idea de esta red neuronal es crear un clasificador de imágenes que pueda clasificar diferentes paisajes urbanos
 bajo 6 clases diferentes. Para todo el proyecto se utiliza la librería keras.
@@ -20,17 +19,19 @@ y la última capa fully connected con función de activación softmax para obten
 
 Con esta estructura se consigue una precisión de validación del 86.3%
 
-Gráfica de evolución:
+**Gráfica de evolución:**
 
 ![image](https://user-images.githubusercontent.com/17860464/149221647-da5a033f-aba1-45a3-ba6e-fe2b0a09f6ef.png)
 
 
-Matriz de confusión:
+**Matriz de confusión:**
 
 ![image](https://user-images.githubusercontent.com/17860464/149222039-780ee0ce-a970-4105-97a9-5d6eff890072.png)
 
 
-#--------REFERENCIAS---------#
+## REFERENCIAS
 
-GPU utilizada: GTX 1660 Ti Max Q
-Dataset utilizado: https://www.kaggle.com/puneet6060/intel-image-classification
+**GPU utilizada:** GTX 1660 Ti Max Q
+
+
+[**Dataset utilizado**](https://www.kaggle.com/puneet6060/intel-image-classification)
